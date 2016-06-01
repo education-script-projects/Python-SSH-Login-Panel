@@ -4,7 +4,6 @@
 import os
 import time
 
-
 ssh_login_panel_ico = """
 #########################################################
 #       PYTHON - SSH LOGIN PANEL - GH0ST S0FTWARE       #
