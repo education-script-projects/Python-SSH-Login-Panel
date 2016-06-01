@@ -24,4 +24,3 @@ def ssh_login_panel():
 	os.system("ssh" + " " + ssh_host_adresi)
 
 ssh_login_panel()
-
